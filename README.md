@@ -105,11 +105,11 @@ Gosto de criar projetos práticos e desenvolver soluções que resolvam problema
     height="200"
     width="400"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luishenriquegianeti&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luishenriquegianeti&show_icons=true&theme=tokyonight" 
   />
   <img 
     height="200"
     width="400"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishenriquegianeti&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luishenriquegianeti&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 </p>
