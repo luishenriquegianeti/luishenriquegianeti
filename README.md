@@ -1,6 +1,6 @@
 # 👨‍💻 Luis Henrique Gianeti
 
-**`Desenvolvedor em Formação | FullStack`**
+**`Desenvolvedor em Formação | Back-end e Front-end`**
 
 Me chamo **Luis Henrique Gianeti**, tenho 21 anos e sou de Ipaussu. Concluí o ensino médio pela **ETEC**, com formação técnica em **Desenvolvimento de Sistemas**.
 
