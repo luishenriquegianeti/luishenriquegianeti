@@ -102,14 +102,12 @@ Gosto de criar projetos práticos e desenvolver soluções que resolvam problema
 ## 📊 Estatísticas
 <p align="left">
   <img 
-    height="200"
-    width="400"
+    height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luishenriquegianeti&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=luishenriquegianeti&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
-    height="200"
-    width="400"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luishenriquegianeti&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+    height="325" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luishenriquegianeti&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=1&count_private=true" 
   />
-</p>
+</p> porque nao esta aparecendo o que estou colocando de titulo e porque nao esta do mesmo tamanho 
