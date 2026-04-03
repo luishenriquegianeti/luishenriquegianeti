@@ -107,7 +107,7 @@ Gosto de criar projetos práticos e desenvolver soluções que resolvam problema
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=luishenriquegianeti&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
-    height="325" 
+    height="200" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luishenriquegianeti&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=1&count_private=true" 
   />
 </p> porque nao esta aparecendo o que estou colocando de titulo e porque nao esta do mesmo tamanho 
