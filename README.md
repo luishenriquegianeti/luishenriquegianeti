@@ -106,7 +106,7 @@ Gosto de criar projetos práticos e desenvolver soluções que resolvam problema
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luishenriquegianeti&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   />
 
   <img 
