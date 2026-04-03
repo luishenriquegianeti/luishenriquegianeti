@@ -112,7 +112,7 @@ Gosto de criar projetos práticos e desenvolver soluções que resolvam problema
 <img 
         <img 
   height="200" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luishenriquegianeti&layout=compact&theme=tokyonight&langs_count=6" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luishenriquegianeti&layout=compact&theme=tokyonight&langs_count=9" 
 /> 
 
 </p>
