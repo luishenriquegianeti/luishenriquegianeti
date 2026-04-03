@@ -100,20 +100,19 @@ Gosto de criar projetos práticos e desenvolver soluções que resolvam problema
 
 
 ## 📊 Estatísticas
+<p>
+    <img 
+        alt="GitHub Stats"
+        align="left" 
+        height="200" 
+        Style="padding-right: 10px;"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=luishenriquegianeti&show_icons=true&theme=tokyonight" 
+    />
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img 
-    height="200" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=luishenriquegianeti&show_icons=true&theme=tokyonight" 
-  />
+<img 
+        alt="GitHub Stats"
+        align="left" 
+        height="200" 
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luishenriquegianeti&layout=compact&theme=tokyonight" 
+/>
 </p>
-
-<p align="center">
-  <img 
-    height="200" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luishenriquegianeti&layout=compact&theme=tokyonight" 
-  />
-</p>
-
