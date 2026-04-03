@@ -112,6 +112,5 @@ Gosto de criar projetos práticos e desenvolver soluções que resolvam problema
   height="200"
   width="325"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishenriquegianeti&theme=tokyonight&layout=compact&custom_title=Tecnologias&count_private=true" 
-/>
   />
 </p>
