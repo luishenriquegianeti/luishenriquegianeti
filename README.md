@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em Formação | Back-end & Front-end`**
 
-Me chamo **Luis Henrique Gianeti**, tenho 21 anos e sou de São Paulo. Concluí o ensino médio pela **ETEC**, com formação técnica em **Desenvolvimento de Sistemas**.
+Me chamo **Luis Henrique Gianeti**, tenho 21 anos e sou de Ipaussu. Concluí o ensino médio pela **ETEC**, com formação técnica em **Desenvolvimento de Sistemas**.
 
 Atualmente, estou cursando **Engenharia de Software na UNIFIO**. Tenho grande interesse por tecnologia e aprendizado contínuo, sempre buscando evoluir minhas habilidades no desenvolvimento de software.
 
@@ -106,13 +106,13 @@ Gosto de criar projetos práticos e desenvolver soluções que resolvam problema
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+    src="https://github-readme-stats.vercel.app/api?username=luishenriquegianeti&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?             username=luishenriquegianeti&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishenriquegianeti&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
