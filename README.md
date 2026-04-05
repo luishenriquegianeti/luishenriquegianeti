@@ -15,7 +15,7 @@ www.linkedin.com/in/luis-henrique-gianeti
 ---
 
 ## 🚀 Sobre mim
-- 🎯 Foco em desenvolvimento **Back-end e Front-end**  
+- 🎯 Foco em desenvolvimento **Full-Stack**  
 - 📚 Aprendizado contínuo em novas tecnologias  
 - 💡 Interesse em resolver problemas reais com software  
 - 🛠️ Experiência com desenvolvimento de APIs e sistemas web  
