@@ -7,6 +7,9 @@ Me chamo **Luis Henrique Gianeti**, tenho 21 anos e sou de Ipaussu. Concluí o e
 Atualmente, estou cursando **Engenharia de Software na UNIFIO**. Tenho grande interesse por tecnologia e aprendizado contínuo, sempre buscando evoluir minhas habilidades no desenvolvimento de software.
 
 Gosto de criar projetos práticos e desenvolver soluções que resolvam problemas reais, explorando novas tecnologias e aprimorando meus conhecimentos a cada dia.
+Linkedin:
+www.linkedin.com/in/luis-henrique-gianeti
+
 
 ---
 
